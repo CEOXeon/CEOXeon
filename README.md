@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Rust**
 
-- 👯 I’m looking to collaborate on **some FOSS Projects**
-
-<h3 align="left">Connect with me:</h3>
+- 👯 I’m looking to collaborate on **some FOSS 
 <p align="left">
 </p>
 
