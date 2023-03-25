@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceoxeon&show_icons=true&locale=en&theme=nord" alt="ceoxeon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceoxeon&theme=nord" alt="ceoxeon" /></p>
+<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CEOXeon&theme=nord&date_format=j%20M%5B%20Y%5D&fire=EB5454&ring=EB5454&sideNums=01FF0F&currStreakNum=F7FF00)](https://git.io/streak-stats)" alt="ceoxeon" /></p>
