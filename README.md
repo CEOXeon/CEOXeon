@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **something secret**
 
-- 🌱 I’m currently learning **Python, Rust**
+- 🌱 I’m currently learning **Python, Go**
 
 - 👯 I’m looking to collaborate on **some FOSS**
 <p align="left">
